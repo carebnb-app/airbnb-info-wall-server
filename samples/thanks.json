@@ -23,10 +23,10 @@
     { "type": "debug", "value": "Parsing section: Thanks message" },
     { "type": "text", "pos": { "x":160, "y":2 }, "text":"Thank you!", "size":120, "color":0 },
     { "type": "text", "pos": { "x":170, "y":170 }, "text":"Isabela,", "size":24, "color":0 },
-    { "type": "text", "pos": { "x":170, "y":220 }, "text":"We know the distance didn't allow us to meet in person, but thanks to", "size":18, "c$
-    { "type": "text", "pos": { "x":170, "y":250 }, "text":"these awesome tools, we could keep in touch and coordinate with you.", "size":18, "co$
+    { "type": "text", "pos": { "x":170, "y":220 }, "text":"We know the distance didn't allow us to meet in person, but thanks to", "size":18, "color":0 },
+    { "type": "text", "pos": { "x":170, "y":250 }, "text":"these awesome tools, we could keep in touch and coordinate with you.", "size":18, "color":0 },
     { "type": "text", "pos": { "x":170, "y":300 }, "text":"It was our pleasure to have you in our place!", "size":18, "color":0 },
-    { "type": "text", "pos": { "x":170, "y":350 }, "text":"If you face any issue while checking out, please text us on AirBNB chat", "size":18, $
+    { "type": "text", "pos": { "x":170, "y":350 }, "text":"If you face any issue while checking out, please text us on AirBNB chat", "size":18, "color":0 },
     { "type": "text", "pos": { "x":170, "y":380 }, "text":"or on the phone (904) 303-9583.", "size":18, "color":0 },
     { "type": "text", "pos": { "x":170, "y":440 }, "text":"We wish you had an awesome stay!", "size":18, "color":0 }
   ]
