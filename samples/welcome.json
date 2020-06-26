@@ -21,7 +21,7 @@
     { "type": "text", "pos": { "x":10, "y":440 }, "text":"30/06 @ 11 A.M.", "size":14, "color":0 },
 
     { "type": "debug", "value": "Parsing section: Welcome message" },
-    { "type": "text", "pos": { "x":160, "y":2 }, "text":"Isabela,", "size":120, "color":0 },
+    { "type": "text", "pos": { "x":160, "y":2 }, "text":"Isabella,", "size":120, "color":0 },
     { "type": "text", "pos": { "x":170, "y":170 }, "text":"Welcome to our place!", "size":24, "color":0 },
     { "type": "text", "pos": { "x":170, "y":215 }, "text":"Prior to your arrival the house was cleaned, organized and sanitized.", "size":18, "color":0 },
     { "type": "text", "pos": { "x":170, "y":245 }, "text":"We wanted everything to be perfect for you.", "size":18, "color":0 },
